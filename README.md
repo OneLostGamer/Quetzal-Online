@@ -102,7 +102,7 @@ Please include:
 ## Credits
 
 - **TenmaRH**, creator of **Pokémon Quetzal** and its Mplayer multiplayer mode. Quetzal Online only carries the link; all the multiplayer itself is TenmaRH's work.
-  [pokemonquetzal.net](https://pokemonquetzal.net/) · [Quetzal Discord](https://discord.com/invite/pokemon-quetzal-977135636186288138)
+  [pokemonquetzal.app]((https://pokemonquetzal.app/)) · [Quetzal Discord](https://discord.gg/ccfKrzscP)
 - **TheHunterManX**, creator of **PK-GBA Multiplayer**, the mGBA Lua multiplayer project that inspired this one and that early versions were built on.
   [GitHub](https://github.com/TheHunterManX/GBA-PK-multiplayer) · [PokéCommunity thread](https://www.pokecommunity.com/threads/pk-gba-multiplayer.484949/)
 - **endrift** and the mGBA team, for mGBA and its scripting API.
